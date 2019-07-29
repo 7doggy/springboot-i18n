@@ -1,0 +1,9 @@
+server:
+  port: 8080
+
+spring:
+  application:
+    name: springboot-i18n
+  messages:
+    basename: static/i18n/messages
+
